@@ -1,0 +1,17 @@
+{
+  "name": "yargs-learning",
+  "version": "1.0.0",
+  "description": "yargs学习",
+  "main": "index.js",
+  "bin": {
+    "hello": "hello.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "donestre17",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^12.0.1"
+  }
+}
